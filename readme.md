@@ -64,3 +64,4 @@
 - [J.C. Hiatt](https://jchiatt.com/)
 - [Robin Cannon](https://www.robin-cannon.com/)
 - [Daniel Lo Nigro](https://d.sb/blog)
+- [Andy Bell](https://andy-bell.design/)
