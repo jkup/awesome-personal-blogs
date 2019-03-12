@@ -25,6 +25,7 @@
 - [Daniel Lemay](https://www.dslemay.com/)
 - [Daniel Lo Nigro](https://d.sb/blog)
 - [Darren Jennings](https://guuu.io/)
+- [Dave Geddes](https://gedd.ski/)
 - [Dean Harris](https://deanacus.com/)
 - [Dimitri Do Bairro](https://dimsolution.com/)
 - [Dimitrios Lytras](https://dimitrioslytras.com/)
