@@ -61,6 +61,7 @@
 - [Kyle Mathews](https://www.bricolage.io/)
 - [Kyle Shevlin](https://kyleshevlin.com/)
 - [Lacy Henschel](https://www.laceyhenschel.com/blog/)
+- [Lauren Tan](https://www.no.lol/)
 - [Lea Verou](http://lea.verou.me/)
 - [Lazarus Lazaridis](https://iridakos.com)
 - [Lindsey Kopacz](https://www.a11ywithlindsey.com/)
