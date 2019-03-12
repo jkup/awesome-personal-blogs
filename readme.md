@@ -73,3 +73,5 @@
 - [Siddharth Kshetrapal](https://sid.studio/blog)
 - [Juri Strumpflohner](https://juristr.com/blog)
 - [Ire Aderinokun](https://bitsofco.de/)
+- [Paolo Melchiorre](https://www.paulox.net/)
+- [Dinesh Pandiyan](https://dineshpandiyan.com/)
