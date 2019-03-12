@@ -69,6 +69,7 @@
 - [Rob Dodson](https://robdodson.me/)
 - [Rob Kendal](https://robkendal.co.uk/)
 - [Robin Cannon](https://www.robin-cannon.com/)
+- [Robin Wieruch](https://www.robinwieruch.de/)
 - [Roelof Jan Elsinga](https://roelofjanelsinga.com/articles)
 - [Sergio Xalambrí](https://sergiodxa.com/)
 - [Siddharth Kshetrapal](https://sid.studio/blog)
