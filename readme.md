@@ -70,3 +70,4 @@
 - [Khaled Garbaya](https://khaledgarbaya.net/)
 - [Rob Kendal](https://robkendal.co.uk/)
 - [Siddharth Kshetrapal](https://sid.studio/blog)
+- [Juri Strumpflohner](https://juristr.com/blog)
