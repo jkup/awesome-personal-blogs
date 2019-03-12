@@ -74,3 +74,4 @@
 - [Juri Strumpflohner](https://juristr.com/blog)
 - [Paolo Melchiorre](https://www.paulox.net/)
 - [Dinesh Pandiyan](https://dineshpandiyan.com/)
+- [Dimitri Do Bairro](https://dimsolution.com/)
