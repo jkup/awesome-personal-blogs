@@ -66,3 +66,4 @@
 - [Daniel Lo Nigro](https://d.sb/blog)
 - [Andy Bell](https://andy-bell.design/)
 - [Jaime González](https://www.barbarianmeetscoding.com/)
+- [John Reilly](https://blog.johnnyreilly.com/)
