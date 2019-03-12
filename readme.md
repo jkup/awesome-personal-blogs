@@ -75,3 +75,4 @@
 - [Ire Aderinokun](https://bitsofco.de/)
 - [Paolo Melchiorre](https://www.paulox.net/)
 - [Dinesh Pandiyan](https://dineshpandiyan.com/)
+- [Marius Schulz](https://mariusschulz.com)
