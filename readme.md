@@ -8,6 +8,7 @@
 - [Adam Rackis](https://adamrackis.dev/)
 - [Aditya Rohilla](https://adityarohilla.com/blog/)
 - [Andy Bell](https://andy-bell.design/)
+- [Anton Medvedev](https://medv.io)
 - [Antonin Januska](https://antjanus.com/)
 - [Ata Sanchez](https://atasanchez.com/)
 - [Avinash](https://avinash.com.np/)
