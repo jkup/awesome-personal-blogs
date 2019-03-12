@@ -54,7 +54,7 @@
 - [Juri Strumpflohner](https://juristr.com/blog)
 - [Justin James](https://digitaldrummerj.me/)
 - [Katie McLaughlin](https://glasnt.com/blog/)
-- [Kent C Dodds](https://kentcdodds.com/)
+- [Kent C. Dodds](https://kentcdodds.com/)
 - [Kevin Berridge](https://www.kevinberridge.com/)
 - [Khaled Garbaya](https://khaledgarbaya.net/)
 - [Kris Siegel](https://www.krissiegel.com/)
