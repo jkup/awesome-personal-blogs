@@ -41,6 +41,7 @@
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Juri Strumpflohner](https://juristr.com/blog)
 - [Justin James](https://digitaldrummerj.me/)
+- [Kent C Dodds](https://kentcdodds.com/)
 - [Kevin Berridge](https://www.kevinberridge.com/)
 - [Khaled Garbaya](https://khaledgarbaya.net/)
 - [Kris Siegel](https://www.krissiegel.com/)
