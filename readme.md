@@ -50,6 +50,7 @@
 - [Kyle Hall](https://kylehall.io/)
 - [Kyle Mathews](https://www.bricolage.io/)
 - [Kyle Shevlin](https://kyleshevlin.com/)
+- [Lazarus Lazaridis](https://iridakos.com)
 - [Luciano Mammino](https://loige.co/)
 - [Marcy Sutton](https://marcysutton.com/)
 - [Marius Schulz](https://mariusschulz.com)
