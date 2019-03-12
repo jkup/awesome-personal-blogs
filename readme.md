@@ -4,6 +4,8 @@
 
 ## Personal Blogs
 
+# A
+
 - [Adam C. Conrad](https://userinterfacing.com/)
 - [Adam Rackis](https://adamrackis.dev/)
 - [Angie Jones](http://angiejones.tech/)
@@ -16,11 +18,20 @@
 - [Antonin Januska](https://antjanus.com/)
 - [Ata Sanchez](https://atasanchez.com/)
 - [Avinash](https://avinash.com.np/)
+
+# B
+
 - [Brandon Dail](https://aweary.dev/)
+
+# C
+
 - [Chase McCoy](https://chasem.co/thoughts/)
 - [Chiamaka Ikeanyi](https://chiamakaikeanyi.dev/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Christian Fei](https://christianfei.com/)
+
+# D
+
 - [Dan Abramov](https://overreacted.io/)
 - [Daniel Lemay](https://www.dslemay.com/)
 - [Daniel Lo Nigro](https://d.sb/blog)
@@ -29,16 +40,34 @@
 - [Dimitri Do Bairro](https://dimsolution.com/)
 - [Dinesh Pandiyan](https://dineshpandiyan.com/)
 - [Don Hamilton III](https://blog.donhamiltoniii.com/)
+
+# E
+
 - [Elijah Lynn](https://www.elijahlynn.net/)
 - [Eric Jiang](https://lorderikir.me/blog)
+
+# F
+
 - [Farzad YZ](https://farzadyz.com/blog)
 - [Fatih Kalifa](https://fatihkalifa.com/)
+
+# G
+
 - [Georgi Yanev](https://blog.georgi-yanev.com/)
 - [Glenn Stovall](https://glennstovall.com/)
+
+# H
+
 - [Harry Wolff](https://hswolff.com/)
 - [Houssein Djirdeh](https://houssein.me/)
+
+# I
+
 - [Ire Aderinokun](https://bitsofco.de/)
 - [Ismail Ghallou](https://smakosh.com/blog/)
+
+# J
+
 - [J.C. Hiatt](https://jchiatt.com/)
 - [Jaime González](https://www.barbarianmeetscoding.com/)
 - [Jake Champion](https://jakechampion.name/)
@@ -52,6 +81,9 @@
 - [Julia Evans](https://jvns.ca/)
 - [Juri Strumpflohner](https://juristr.com/blog)
 - [Justin James](https://digitaldrummerj.me/)
+
+# K
+
 - [Katie McLaughlin](https://glasnt.com/blog/)
 - [Kent C Dodds](https://kentcdodds.com/)
 - [Kevin Berridge](https://www.kevinberridge.com/)
@@ -60,6 +92,9 @@
 - [Kyle Hall](https://kylehall.io/)
 - [Kyle Mathews](https://www.bricolage.io/)
 - [Kyle Shevlin](https://kyleshevlin.com/)
+
+# L
+
 - [Lacy Henschel](https://www.laceyhenschel.com/blog/)
 - [Lea Verou](http://lea.verou.me/)
 - [Lazarus Lazaridis](https://iridakos.com)
@@ -67,6 +102,9 @@
 - [Lorna Jane](https://lornajane.net/)
 - [Luciano Mammino](https://loige.co/)
 - [Lucy Bain](https://lucybain.com/blog/)
+
+# M
+
 - [Marcy Sutton](https://marcysutton.com/)
 - [Marius Schulz](https://mariusschulz.com)
 - [Mark Erikson](https://blog.isquaredsoftware.com/)
@@ -76,14 +114,28 @@
 - [Mbithe Nzomo](http://decodegirl.com/)
 - [Mike Behnke](https://kgrz.io/)
 - [Mouse Reeve](https://www.mousereeve.com/)
+
+# N
+
 - [Nate Amack](https://nateamack.com/)
 - [Nathanael Beisiegel](https://beisiegel.me/)
 - [Nicole Harris](https://whoisnicoleharris.com/)
+
+# O
+
 - [Olavi Haapala](https://olavihaapala.fi/)
 - [Omar Bahareth](https://omar.engineer/)
+
+# P
+
 - [Paolo Melchiorre](https://www.paulox.net/)
 - [PC Maffey](https://www.pcmaffey.com/)
 - [Philipp Spiess](https://philippspiess.com/)
+
+# Q
+
+# R
+
 - [Rachel Kroll](https://rachelbythebay.com/w/)
 - [Richard Shackleton](https://rshackleton.co.uk/)
 - [Rob Dodson](https://robdodson.me/)
@@ -91,6 +143,9 @@
 - [Robin Cannon](https://www.robin-cannon.com/)
 - [Robin Wieruch](https://www.robinwieruch.de/)
 - [Roelof Jan Elsinga](https://roelofjanelsinga.com/articles)
+
+# S
+
 - [Sara Winter](https://jsblog.sarawinter.se/)
 - [Sarah Chima](https://dev.to/sarah_chima)
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
@@ -101,13 +156,29 @@
 - [Soledad Penadés](https://soledadpenades.com/)
 - [Sophie Alpert](https://sophiebits.com/)
 - [Susie Lu](https://susielu.com/)
+
+# T
+
 - [Tanner Linsley](https://tannerlinsley.com/)
 - [Terin Stock](https://terinstock.com)
 - [Tiger Oakes](https://tigeroakes.com/posts/)
 - [Toma Nistor](https://tomanistor.com/blog)
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
 - [Trevor Harmon](https://thetrevorharmon.com/)
+
+# U
+
+# V
+
 - [Victoria Dev](https://victoria.dev/)
+
+# W
+
+# X
+
+# Y
 - [Yegor Bugayenko](https://www.yegor256.com/)
 - [Yomesh Gupta](https://devtools.tech/)
+
+# Z
 - [Zero Cho](https://itsze.ro/blog)
