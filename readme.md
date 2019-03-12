@@ -21,6 +21,7 @@
 - [Daniel Lo Nigro](https://d.sb/blog)
 - [Darren Jennings](https://guuu.io/)
 - [Dean Harris](https://deanacus.com/)
+- [Dimitri Do Bairro](https://dimsolution.com/)
 - [Dinesh Pandiyan](https://dineshpandiyan.com/)
 - [Don Hamilton III](https://blog.donhamiltoniii.com/)
 - [Elijah Lynn](https://www.elijahlynn.net/)
