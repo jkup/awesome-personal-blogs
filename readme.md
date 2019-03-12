@@ -168,6 +168,8 @@
 
 # U
 
+- [Una Kravets](https://una.im/)
+
 # V
 
 - [Victoria Dev](https://victoria.dev/)
