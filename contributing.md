@@ -6,15 +6,6 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
-
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
-
 ## Updating your PR
 
 A lot of times, making a PR adhere to the standards above can be difficult.
