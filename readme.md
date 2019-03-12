@@ -63,3 +63,4 @@
 - [Aditya Rohilla](https://adityarohilla.com/blog/)
 - [J.C. Hiatt](https://jchiatt.com/)
 - [Robin Cannon](https://www.robin-cannon.com/)
+- [Daniel Lo Nigro](https://d.sb/blog)
