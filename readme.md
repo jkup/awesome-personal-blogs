@@ -44,7 +44,7 @@
 - [Jake Champion](https://jakechampion.name/)
 - [James Milner](https://www.loxodrome.io/)
 - [Jason Everett](https://blog.ijasoneverett.com/)
-- [Jessie Fazelle](https://blog.jessfraz.com/)
+- [Jessie Frazelle](https://blog.jessfraz.com/)
 - [Jim Filippou](https://jimfilippou.space/)
 - [John Reilly](https://blog.johnnyreilly.com/)
 - [John Stewart](https://www.johnstewart.io/)
