@@ -72,3 +72,4 @@
 - [Farzad YZ](https://farzadyz.com/blog)
 - [Siddharth Kshetrapal](https://sid.studio/blog)
 - [Juri Strumpflohner](https://juristr.com/blog)
+- [Ire Aderinokun](https://bitsofco.de/)
