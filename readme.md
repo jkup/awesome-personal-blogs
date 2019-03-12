@@ -69,5 +69,6 @@
 - [John Reilly](https://blog.johnnyreilly.com/)
 - [Khaled Garbaya](https://khaledgarbaya.net/)
 - [Rob Kendal](https://robkendal.co.uk/)
+- [Farzad YZ](https://farzadyz.com/blog)
 - [Siddharth Kshetrapal](https://sid.studio/blog)
 - [Juri Strumpflohner](https://juristr.com/blog)
