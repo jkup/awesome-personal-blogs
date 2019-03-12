@@ -5,6 +5,7 @@
 ## Personal Blogs
 
 - [Adam Rackis](https://adamrackis.dev/)
+- [Amit Merchant](https://www.amitmerchant.com/)
 - [Brandon Dail](https://aweary.dev/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Marcy Sutton](https://marcysutton.com/)
