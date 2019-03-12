@@ -149,6 +149,7 @@
 - [Sara Winter](https://jsblog.sarawinter.se/)
 - [Sarah Chima](https://dev.to/sarah_chima)
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
+- [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/)
 - [Shirley Wu](http://sxywu.com/)
 - [Siddharth Kshetrapal](https://sid.studio/blog)
