@@ -20,6 +20,7 @@
 - [Chase McCoy](https://chasem.co/thoughts/)
 - [Chiamaka Ikeanyi](https://chiamakaikeanyi.dev/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
+- [Christian Fei](https://christianfei.com/)
 - [Dan Abramov](https://overreacted.io/)
 - [Daniel Lemay](https://www.dslemay.com/)
 - [Daniel Lo Nigro](https://d.sb/blog)
