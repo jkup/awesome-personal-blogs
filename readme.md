@@ -84,6 +84,7 @@
 - [PC Maffey](https://www.pcmaffey.com/)
 - [Philipp Spiess](https://philippspiess.com/)
 - [Rachel Kroll](https://rachelbythebay.com/w/)
+- [Reginald Braithwaite](https://raganwald.com/)
 - [Richard Shackleton](https://rshackleton.co.uk/)
 - [Rob Dodson](https://robdodson.me/)
 - [Rob Kendal](https://robkendal.co.uk/)
