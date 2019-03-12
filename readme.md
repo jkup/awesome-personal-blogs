@@ -7,6 +7,7 @@
 - [Adam C. Conrad](https://userinterfacing.com/)
 - [Adam Rackis](https://adamrackis.dev/)
 - [Aditya Rohilla](https://adityarohilla.com/blog/)
+- [Amit Merchant](https://www.amitmerchant.com/)
 - [Andy Bell](https://andy-bell.design/)
 - [Anton Medvedev](https://medv.io)
 - [Antonin Januska](https://antjanus.com/)
