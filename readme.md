@@ -81,6 +81,7 @@
 - [Marshall Bowers](https://maxdeviant.com/)
 - [Matt Might](http://matt.might.net/#blog)
 - [Matt Podwysocki](https://mattpodwysocki.github.io/)
+- [Matthias Noback](https://matthiasnoback.nl/)
 - [Mbithe Nzomo](http://decodegirl.com/)
 - [Mike Behnke](https://kgrz.io/)
 - [Mouse Reeve](https://www.mousereeve.com/)
