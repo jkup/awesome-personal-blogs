@@ -42,6 +42,7 @@
 - [Glenn Stovall](https://glennstovall.com/)
 - [Harry Wolff](https://hswolff.com/)
 - [Houssein Djirdeh](https://houssein.me/)
+- [Huy Nguyen](https://www.huy.dev)
 - [Ire Aderinokun](https://bitsofco.de/)
 - [Ismail Ghallou](https://smakosh.com/blog/)
 - [J.C. Hiatt](https://jchiatt.com/)
