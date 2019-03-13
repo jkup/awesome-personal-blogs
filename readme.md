@@ -122,3 +122,4 @@
 - [Yomesh Gupta](https://devtools.tech/)
 - [Zero Cho](https://itsze.ro/blog)
 - [Tiffany R. White Blog](https://tiffanywhite.dev/)
+- [Zafar Khodjaev](https://zaff.netlify.com/)
