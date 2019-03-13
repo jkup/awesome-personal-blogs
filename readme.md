@@ -79,6 +79,7 @@
 - [Marius Schulz](https://mariusschulz.com)
 - [Mark Erikson](https://blog.isquaredsoftware.com/)
 - [Marshall Bowers](https://maxdeviant.com/)
+- [Mark Luetke](https://luetkemj.github.io/)
 - [Matt Might](http://matt.might.net/#blog)
 - [Matt Podwysocki](https://mattpodwysocki.github.io/)
 - [Mbithe Nzomo](http://decodegirl.com/)
