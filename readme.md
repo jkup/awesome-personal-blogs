@@ -22,6 +22,7 @@
 - [Chiamaka Ikeanyi](https://chiamakaikeanyi.dev/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Christian Fei](https://christianfei.com/)
+- [Colin Cummings](https://colinrcummings.github.io/blog/)
 - [Dan Abramov](https://overreacted.io/)
 - [Daniel Lemay](https://www.dslemay.com/)
 - [Daniel Lo Nigro](https://d.sb/blog)
