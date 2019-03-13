@@ -110,6 +110,7 @@
 - [Tanner Linsley](https://tannerlinsley.com/)
 - [Terin Stock](https://terinstock.com)
 - [Tiger Oakes](https://tigeroakes.com/posts/)
+- [TK](http://leandrotk.github.io/tk)
 - [Toma Nistor](https://tomanistor.com/blog)
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
 - [Trevor Harmon](https://thetrevorharmon.com/)
