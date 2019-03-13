@@ -54,6 +54,7 @@
 - [John Reilly](https://blog.johnnyreilly.com/)
 - [John Stewart](https://www.johnstewart.io/)
 - [Jon Kuperman](https://jonkuperman.com/)
+- [Jon Skeet](https://codeblog.jonskeet.uk/)
 - [Julia Evans](https://jvns.ca/)
 - [Juri Strumpflohner](https://juristr.com/blog)
 - [Justin James](https://digitaldrummerj.me/)
