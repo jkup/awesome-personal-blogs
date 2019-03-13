@@ -48,6 +48,7 @@
 - [Jaime González](https://www.barbarianmeetscoding.com/)
 - [Jake Champion](https://jakechampion.name/)
 - [James Milner](https://www.loxodrome.io/)
+- [James Nelson](http://jamesknelson.com/)
 - [Jason Everett](https://blog.ijasoneverett.com/)
 - [Jessie Frazelle](https://blog.jessfraz.com/)
 - [Jim Filippou](https://jimfilippou.space/)
