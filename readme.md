@@ -40,6 +40,7 @@
 - [Fatih Kalifa](https://fatihkalifa.com/)
 - [Georgi Yanev](https://blog.georgi-yanev.com/)
 - [Glenn Stovall](https://glennstovall.com/)
+- [Greg Johns](http://www.gregjohns.com/)
 - [Harry Wolff](https://hswolff.com/)
 - [Houssein Djirdeh](https://houssein.me/)
 - [Huy Nguyen](https://www.huy.dev)
