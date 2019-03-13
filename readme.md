@@ -119,3 +119,4 @@
 - [Yegor Bugayenko](https://www.yegor256.com/)
 - [Yomesh Gupta](https://devtools.tech/)
 - [Zero Cho](https://itsze.ro/blog)
+- [Tiffany R. White Blog](https://tiffanywhite.dev/)
