@@ -97,6 +97,7 @@
 - [Mike Behnke](https://kgrz.io/)
 - [Mike Bifulco](https://mike.biful.co/)
 - [Mouse Reeve](https://www.mousereeve.com/)
+- [Mustafa Çalap](https://calap.co/blog)
 - [Nate Amack](https://nateamack.com/)
 - [Nathanael Beisiegel](https://beisiegel.me/)
 - [Nicole Harris](https://whoisnicoleharris.com/)
