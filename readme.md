@@ -86,6 +86,7 @@
 - [Matt Might](http://matt.might.net/#blog)
 - [Matt Podwysocki](https://mattpodwysocki.github.io/)
 - [Matthias Noback](https://matthiasnoback.nl/)
+- [Max Li](https://maxlibin.com/)
 - [Mbithe Nzomo](http://decodegirl.com/)
 - [Mike Behnke](https://kgrz.io/)
 - [Mouse Reeve](https://www.mousereeve.com/)
