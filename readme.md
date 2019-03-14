@@ -40,6 +40,7 @@
 - [Eric Jiang](https://lorderikir.me/blog)
 - [Evan Miller](http://www.evanmiller.org/)
 - [Farzad YZ](https://farzadyz.com/blog)
+- [Fatih Arslan](https://arslan.io)
 - [Fatih Kalifa](https://fatihkalifa.com/)
 - [Georgi Yanev](https://blog.georgi-yanev.com/)
 - [Glenn Stovall](https://glennstovall.com/)
