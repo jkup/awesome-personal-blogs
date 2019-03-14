@@ -24,6 +24,7 @@
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Christian Fei](https://christianfei.com/)
 - [Colin Cummings](https://colinrcummings.github.io/blog/)
+- [Benedict Meurer](https://benediktmeurer.de/)
 - [Dan Abramov](https://overreacted.io/)
 - [Daniel Lemay](https://www.dslemay.com/)
 - [Daniel Lo Nigro](https://d.sb/blog)
