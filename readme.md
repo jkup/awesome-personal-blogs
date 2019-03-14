@@ -94,6 +94,7 @@
 - [Max Li](https://maxlibin.com/)
 - [Mbithe Nzomo](http://decodegirl.com/)
 - [Mike Behnke](https://kgrz.io/)
+- [Mike Bifulco](https://mike.biful.co/)
 - [Mouse Reeve](https://www.mousereeve.com/)
 - [Nate Amack](https://nateamack.com/)
 - [Nathanael Beisiegel](https://beisiegel.me/)
