@@ -33,6 +33,7 @@
 - [Dimitrios Lytras](https://dimitrioslytras.com/)
 - [Dinesh Pandiyan](https://dineshpandiyan.com/)
 - [Don Hamilton III](https://blog.donhamiltoniii.com/)
+- [Eli Bendersky](https://eli.thegreenplace.net)
 - [Elijah Lynn](https://www.elijahlynn.net/)
 - [Eric Jiang](https://lorderikir.me/blog)
 - [Evan Miller](http://www.evanmiller.org/)
