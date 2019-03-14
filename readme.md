@@ -10,6 +10,7 @@
 - [Angus Croll](https://javascriptweblog.wordpress.com/)
 - [Aditya Rohilla](https://adityarohilla.com/blog/)
 - [Ali Spittel](https://dev.to/aspittel)
+- [Aman Pratap Singh](https://blog.amanpratapsingh.in)
 - [Amit Merchant](https://www.amitmerchant.com/)
 - [Andy Bell](https://andy-bell.design/)
 - [Anton Medvedev](https://medv.io)
