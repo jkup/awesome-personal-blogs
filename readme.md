@@ -93,6 +93,7 @@
 - [Nate Amack](https://nateamack.com/)
 - [Nathanael Beisiegel](https://beisiegel.me/)
 - [Nicole Harris](https://whoisnicoleharris.com/)
+- [Nikita Voloboev](https://medium.com/@nikitavoloboev)
 - [Olavi Haapala](https://olavihaapala.fi/)
 - [Omar Bahareth](https://omar.engineer/)
 - [Paolo Melchiorre](https://www.paulox.net/)
