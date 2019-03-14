@@ -123,6 +123,7 @@
 - [Toma Nistor](https://tomanistor.com/blog)
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
 - [Trevor Harmon](https://thetrevorharmon.com/)
+- [Vaibhav Khulbe](https://medium.com/@vaibhavkhulbe)
 - [Victoria Dev](https://victoria.dev/)
 - [Yegor Bugayenko](https://www.yegor256.com/)
 - [Yomesh Gupta](https://devtools.tech/)
