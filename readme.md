@@ -65,6 +65,7 @@
 - [Katie McLaughlin](https://glasnt.com/blog/)
 - [Kent C. Dodds](https://kentcdodds.com/)
 - [Kevin Berridge](https://www.kevinberridge.com/)
+- [Kevin Jalbert](https://kevinjalbert.com/)
 - [Khaled Garbaya](https://khaledgarbaya.net/)
 - [Kris Siegel](https://www.krissiegel.com/)
 - [Kyle Hall](https://kylehall.io/)
