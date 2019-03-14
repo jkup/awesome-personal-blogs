@@ -75,6 +75,7 @@
 - [Lea Verou](http://lea.verou.me/)
 - [Lazarus Lazaridis](https://iridakos.com)
 - [Lindsey Kopacz](https://www.a11ywithlindsey.com/)
+- [Lisa Dziuba](https://medium.com/@lisadziuba)
 - [Lorna Jane](https://lornajane.net/)
 - [Luciano Mammino](https://loige.co/)
 - [Lucy Bain](https://lucybain.com/blog/)
