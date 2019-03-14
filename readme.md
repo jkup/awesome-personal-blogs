@@ -33,6 +33,7 @@
 - [Dean Harris](https://deanacus.com/)
 - [Dimitri Do Bairro](https://dimsolution.com/)
 - [Dimitrios Lytras](https://dimitrioslytras.com/)
+- [Dimitris Raptis](https://raptis.wtf/blog)
 - [Dinesh Pandiyan](https://dineshpandiyan.com/)
 - [Don Hamilton III](https://blog.donhamiltoniii.com/)
 - [Eduards Sizovs](https://sizovs.net)
