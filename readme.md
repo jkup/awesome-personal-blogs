@@ -48,6 +48,7 @@
 - [Farzad YZ](https://farzadyz.com/blog)
 - [Fatih Arslan](https://arslan.io)
 - [Fatih Kalifa](https://fatihkalifa.com/)
+- [Gavin Henderson](https://gavinhenderson.me)
 - [Georgi Yanev](https://blog.georgi-yanev.com/)
 - [Glenn Stovall](https://glennstovall.com/)
 - [Greg Johns](http://www.gregjohns.com/)
