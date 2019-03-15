@@ -104,6 +104,7 @@
 - [Nicole Harris](https://whoisnicoleharris.com/)
 - [Olavi Haapala](https://olavihaapala.fi/)
 - [Omar Bahareth](https://omar.engineer/)
+- [Pavan Kumar Dasireddy](http://pavankumardasireddy.surge.sh/)
 - [Paolo Melchiorre](https://www.paulox.net/)
 - [PC Maffey](https://www.pcmaffey.com/)
 - [Philipp Spiess](https://philippspiess.com/)
