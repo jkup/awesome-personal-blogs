@@ -13,6 +13,7 @@
 - [Ali Spittel](https://dev.to/aspittel)
 - [Aman Pratap Singh](https://blog.amanpratapsingh.in)
 - [Amit Merchant](https://www.amitmerchant.com/)
+- [Andrew Healey](https://healeycodes.github.io/)
 - [Andy Bell](https://andy-bell.design/)
 - [Anton Medvedev](https://medv.io)
 - [Antonin Januska](https://antjanus.com/)
