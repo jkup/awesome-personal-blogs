@@ -113,6 +113,7 @@
 - [Olavi Haapala](https://olavihaapala.fi/)
 - [Omar Bahareth](https://omar.engineer/)
 - [Paolo Melchiorre](https://www.paulox.net/)
+- [Paul Hubbard](https://ultracrepidarian.phfactor.net/)
 - [PC Maffey](https://www.pcmaffey.com/)
 - [Philipp Spiess](https://philippspiess.com/)
 - [Rachel Kroll](https://rachelbythebay.com/w/)
@@ -152,3 +153,4 @@
 - [Zero Cho](https://itsze.ro/blog)
 - [Tiffany R. White Blog](https://tiffanywhite.dev/)
 - [Zafar Khodjaev](https://zaff.netlify.com/)
+
