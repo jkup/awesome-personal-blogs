@@ -134,6 +134,7 @@
 - [Simon Willison](https://simonwillison.net/)
 - [Soledad Penadés](https://soledadpenades.com/)
 - [Sophie Alpert](https://sophiebits.com/)
+- [Surya Dantuluri](https://blog.suryad.com/)
 - [Susie Lu](https://susielu.com/)
 - [Tanner Linsley](https://tannerlinsley.com/)
 - [Terin Stock](https://terinstock.com)
