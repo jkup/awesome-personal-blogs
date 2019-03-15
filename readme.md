@@ -17,7 +17,7 @@
 - [Antonin Januska](https://antjanus.com/)
 - [Ata Sanchez](https://atasanchez.com/)
 - [Avinash](https://avinash.com.np/)
-- [Benedict Meurer](https://benediktmeurer.de/)
+- [Benedikt Meurer](https://benediktmeurer.de/)
 - [Brandon Dail](https://aweary.dev/)
 - [Bryan Cantrill](http://dtrace.org/blogs/bmc/)
 - [Chase McCoy](https://chasem.co/thoughts/)
