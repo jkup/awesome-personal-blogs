@@ -101,6 +101,7 @@
 - [Matthias Noback](https://matthiasnoback.nl/)
 - [Max Li](https://maxlibin.com/)
 - [Mbithe Nzomo](http://decodegirl.com/)
+- [Michael Malura](https://malura.de/)
 - [Mike Behnke](https://kgrz.io/)
 - [Mike Bifulco](https://mike.biful.co/)
 - [Mouse Reeve](https://www.mousereeve.com/)
