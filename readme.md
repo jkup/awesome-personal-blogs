@@ -120,6 +120,7 @@
 - [Robin Wieruch](https://www.robinwieruch.de/)
 - [Roelof Jan Elsinga](https://roelofjanelsinga.com/articles)
 - [Russ Cox](https://research.swtch.com)
+- [Shodipo Ayomide](https://www.shodipoayomide.com/)
 - [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Sara Winter](https://jsblog.sarawinter.se/)
 - [Sarah Chima](https://dev.to/sarah_chima)
