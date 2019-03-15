@@ -99,6 +99,7 @@
 - [Matt Might](http://matt.might.net/#blog)
 - [Matt Podwysocki](https://mattpodwysocki.github.io/)
 - [Matthias Noback](https://matthiasnoback.nl/)
+- [Matthieu Cneude](https://web-techno.net/)
 - [Max Li](https://maxlibin.com/)
 - [Mbithe Nzomo](http://decodegirl.com/)
 - [Michael Malura](https://malura.de/)
