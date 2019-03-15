@@ -137,6 +137,7 @@
 - [Susie Lu](https://susielu.com/)
 - [Tanner Linsley](https://tannerlinsley.com/)
 - [Terin Stock](https://terinstock.com)
+- [Thomas Hunter II](https://thomashunter.name)
 - [Thomas Kekeisen](https://thomaskekeisen.de/en/blog/archive/)
 - [Tiger Oakes](https://tigeroakes.com/posts/)
 - [TK](http://leandrotk.github.io/tk)
