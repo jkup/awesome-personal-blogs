@@ -135,6 +135,7 @@
 - [Tony Xu](https://tonyxu.io)
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
 - [Trevor Harmon](https://thetrevorharmon.com/)
+- [Umer Farooq](https://medium.com/@umerfarooq_26378)
 - [Victoria Dev](https://victoria.dev/)
 - [Yegor Bugayenko](https://www.yegor256.com/)
 - [Yomesh Gupta](https://devtools.tech/)
