@@ -149,6 +149,7 @@
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
 - [Trevor Harmon](https://thetrevorharmon.com/)
 - [Victoria Dev](https://victoria.dev/)
+- [Walker Frederick](https://walkerfrederick.com/)
 - [Yegor Bugayenko](https://www.yegor256.com/)
 - [Yomesh Gupta](https://devtools.tech/)
 - [Zero Cho](https://itsze.ro/blog)
