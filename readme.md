@@ -10,6 +10,7 @@
 - [Angus Croll](https://javascriptweblog.wordpress.com/)
 - [Aditya Rohilla](https://adityarohilla.com/blog/)
 - [Alan Chang](https://tcode2k16.github.io/blog/)
+- [Alexandru-Paul Copil](https://alexandru.cc)
 - [Ali Spittel](https://dev.to/aspittel)
 - [Aman Pratap Singh](https://blog.amanpratapsingh.in)
 - [Amit Merchant](https://www.amitmerchant.com/)
