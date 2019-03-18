@@ -35,6 +35,7 @@
 - [Darren Jennings](https://guuu.io/)
 - [Dave Chaney](https://dave.cheney.net)
 - [Dave Geddes](https://gedd.ski/)
+- [David Walsh](https://davidwalsh.name/)
 - [Dean Harris](https://deanacus.com/)
 - [Dimitri Do Bairro](https://dimsolution.com/)
 - [Dimitrios Lytras](https://dimitrioslytras.com/)
