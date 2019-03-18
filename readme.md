@@ -51,6 +51,7 @@
 - [Fatih Kalifa](https://fatihkalifa.com/)
 - [Gavin Henderson](https://gavinhenderson.me)
 - [Georgi Yanev](https://blog.georgi-yanev.com/)
+- [Gideon Pyzer](https://gideonpyzer.dev/blog/)
 - [Glenn Stovall](https://glennstovall.com/)
 - [Greg Johns](http://www.gregjohns.com/)
 - [Harry Wolff](https://hswolff.com/)
