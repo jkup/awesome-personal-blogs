@@ -42,6 +42,7 @@
 - [Dimitris Raptis](https://raptis.wtf/blog)
 - [Dinesh Pandiyan](https://dineshpandiyan.com/)
 - [Don Hamilton III](https://blog.donhamiltoniii.com/)
+- [Doğan Uçar](https://www.dogan-ucar.de/category/blog/)
 - [Eduards Sizovs](https://sizovs.net)
 - [Eli Bendersky](https://eli.thegreenplace.net)
 - [Elijah Lynn](https://www.elijahlynn.net/)
