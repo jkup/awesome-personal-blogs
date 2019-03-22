@@ -116,6 +116,7 @@
 - [Nate Amack](https://nateamack.com/)
 - [Nathanael Beisiegel](https://beisiegel.me/)
 - [Nicole Harris](https://whoisnicoleharris.com/)
+- [Nishiki Liu](https://nshki.com/)
 - [Olavi Haapala](https://olavihaapala.fi/)
 - [Omar Bahareth](https://omar.engineer/)
 - [Paolo Melchiorre](https://www.paulox.net/)
