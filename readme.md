@@ -68,6 +68,7 @@
 - [James Nelson](http://jamesknelson.com/)
 - [Jason Everett](https://blog.ijasoneverett.com/)
 - [Jeff Atwood](https://blog.codinghorror.com/)
+- [Jeremy Shaw](https://blog.jeremyshaw.co.nz/)
 - [Jessie Frazelle](https://blog.jessfraz.com/)
 - [Jim Filippou](https://jimfilippou.space/)
 - [John Reilly](https://blog.johnnyreilly.com/)
