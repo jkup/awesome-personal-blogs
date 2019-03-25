@@ -12,6 +12,7 @@
 - [Alan Chang](https://tcode2k16.github.io/blog/)
 - [Alexandru-Paul Copil](https://alexandru.cc)
 - [Ali Spittel](https://dev.to/aspittel)
+- [Amadou Sall](https://www.amadousall.com)
 - [Aman Pratap Singh](https://blog.amanpratapsingh.in)
 - [Amit Merchant](https://www.amitmerchant.com/)
 - [Andrew Healey](https://healeycodes.github.io/)
