@@ -51,7 +51,7 @@
 	<outline type="rss" text="Farzad YZ" title="Farzad YZ" xmlUrl="https://farzadyz.com/rss.xml" htmlUrl="https://farzadyz.com/blog"/>
 	<outline type="rss" text="Fatih Arslan" title="Fatih Arslan" xmlUrl="https://arslan.io/index.xml" htmlUrl="https://arslan.io"/>
 	<outline type="rss" text="Fatih Kalifa" title="Fatih Kalifa" xmlUrl="https://fatihkalifa.com/feed/rss" htmlUrl="https://fatihkalifa.com/"/>
-	<!-- <outline type="rss" text="Gavin Henderson" title="Gavin Henderson" xmlUrl="" htmlUrl="https://gavinhenderson.me"/> -->
+	<outline type="rss" text="Gavin Henderson" title="Gavin Henderson" xmlUrl="https://gavinhenderson.me/feed.xml" htmlUrl="https://gavinhenderson.me"/>
 	<outline type="rss" text="Georgi Yanev" title="Georgi Yanev" xmlUrl="https://blog.georgi-yanev.com/feed.xml" htmlUrl="https://blog.georgi-yanev.com/"/>
 	<outline type="rss" text="Gideon Pyzer" title="Gideon Pyzer" xmlUrl="https://gideonpyzer.dev/blog/index.xml" htmlUrl="https://gideonpyzer.dev/blog/"/>
 	<outline type="rss" text="Glenn Stovall" title="Glenn Stovall" xmlUrl="https://glennstovall.com/feed" htmlUrl="https://glennstovall.com/"/>
