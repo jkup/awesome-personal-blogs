@@ -22,6 +22,7 @@
 - [Ata Sanchez](https://atasanchez.com/)
 - [Avinash](https://avinash.com.np/)
 - [Benedikt Meurer](https://benediktmeurer.de/)
+- [Berkhan Berkdemir](https://berkhanberkdemir.com)
 - [Brandon Dail](https://aweary.dev/)
 - [Brandon Skerritt](https://skerritt.blog/)
 - [Bryan Cantrill](http://dtrace.org/blogs/bmc/)
