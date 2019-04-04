@@ -56,6 +56,7 @@
 - [Georgi Yanev](https://blog.georgi-yanev.com/)
 - [Gideon Pyzer](https://gideonpyzer.dev/blog/)
 - [Glenn Stovall](https://glennstovall.com/)
+- [Gokulakrishnan Kalaikovan](https://gokul.site)
 - [Greg Johns](http://www.gregjohns.com/)
 - [Harry Wolff](https://hswolff.com/)
 - [Houssein Djirdeh](https://houssein.me/)
