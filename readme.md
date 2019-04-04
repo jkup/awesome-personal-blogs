@@ -64,6 +64,7 @@
 - [Ismail Ghallou](https://smakosh.com/blog/)
 - [J.C. Hiatt](https://jchiatt.com/)
 - [Jaime González](https://www.barbarianmeetscoding.com/)
+- [Jake Archibald](https://jakearchibald.com/)
 - [Jake Champion](https://jakechampion.name/)
 - [James Milner](https://www.loxodrome.io/)
 - [James Nelson](http://jamesknelson.com/)
