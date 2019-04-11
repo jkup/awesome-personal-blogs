@@ -28,6 +28,7 @@
 - [Chase McCoy](https://chasem.co/thoughts/)
 - [Chiamaka Ikeanyi](https://chiamakaikeanyi.dev/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
+- [Christopher Olah](http://colah.github.io/)
 - [Christian Fei](https://christianfei.com/)
 - [Colin Cummings](https://colinrcummings.github.io/blog/)
 - [Dan Abramov](https://overreacted.io/)
