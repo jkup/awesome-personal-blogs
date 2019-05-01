@@ -71,6 +71,7 @@
 - [Jeff Atwood](https://blog.codinghorror.com/)
 - [Jeremy Shaw](https://blog.jeremyshaw.co.nz/)
 - [Jessie Frazelle](https://blog.jessfraz.com/)
+- [Jibin Thomas](https://blog.jibin.tech/)
 - [Jim Filippou](https://jimfilippou.space/)
 - [John Reilly](https://blog.johnnyreilly.com/)
 - [John Stewart](https://www.johnstewart.io/)
