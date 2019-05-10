@@ -40,7 +40,7 @@
 	<outline type="rss" text="Dimitri Do Bairro" title="Dimitri Do Bairro" xmlUrl="https://dimsolution.com/feed/" htmlUrl="https://dimsolution.com/"/>
 	<outline type="rss" text="Dimitrios Lytras" title="Dimitrios Lytras" xmlUrl="https://dimitrioslytras.com/rss.xml" htmlUrl="https://dimitrioslytras.com/"/>
 	<outline type="rss" text="Dimitris Raptis" title="Dimitris Raptis" xmlUrl="https://raptis.wtf/rss.xml" htmlUrl="https://raptis.wtf/blog"/>
-	<!-- <outline type="rss" text="Dinesh Pandiyan" title="Dinesh Pandiyan" xmlUrl="" htmlUrl="https://dineshpandiyan.com/"/> -->
+	<outline type="rss" text="Dinesh Pandiyan" title="Dinesh Pandiyan" xmlUrl="https://dineshpandiyan.com/rss.xml" htmlUrl="https://dineshpandiyan.com/"/>
 	<outline type="rss" text="Don Hamilton III" title="Don Hamilton III" xmlUrl="https://blog.donhamiltoniii.com/rss.xml" htmlUrl="https://blog.donhamiltoniii.com/"/>
 	<outline type="rss" text="Doğan Uçar" title="Doğan Uçar" xmlUrl="https://www.dogan-ucar.de/feed/" htmlUrl="https://www.dogan-ucar.de/category/blog/"/>
 	<outline type="rss" text="Eduards Sizovs" title="Eduards Sizovs" xmlUrl="https://sizovs.net/feed.xml" htmlUrl="https://sizovs.net"/>
