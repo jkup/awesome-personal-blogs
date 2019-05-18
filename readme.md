@@ -159,6 +159,7 @@
 - [Tony Xu](https://tonyxu.io)
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
 - [Trevor Harmon](https://thetrevorharmon.com/)
+- [Vaibhav Khulbe](https://medium.com/@vaibhavkhulbe)
 - [Victoria Dev](https://victoria.dev/)
 - [Walker Frederick](https://walkerfrederick.com/)
 - [Yegor Bugayenko](https://www.yegor256.com/)
