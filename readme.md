@@ -142,6 +142,7 @@
 - [Sergio Xalambrí](https://sergiodxa.com/)
 - [Shirley Wu](http://sxywu.com/)
 - [Siddharth Kshetrapal](https://sid.studio/blog)
+- [Simon Gilbert](https://www.simongilbert.net)
 - [Simon Willison](https://simonwillison.net/)
 - [Soledad Penadés](https://soledadpenades.com/)
 - [Sophie Alpert](https://sophiebits.com/)
