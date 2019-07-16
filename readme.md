@@ -111,6 +111,7 @@
 - [Matthias Noback](https://matthiasnoback.nl/)
 - [Matthieu Cneude](https://web-techno.net/)
 - [Max Li](https://maxlibin.com/)
+- [Max Stoiber](https://mxstbr.com/thoughts/)
 - [Mbithe Nzomo](http://decodegirl.com/)
 - [Michael Malura](https://malura.de/)
 - [Mike Behnke](https://kgrz.io/)
