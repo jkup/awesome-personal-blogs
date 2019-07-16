@@ -65,6 +65,7 @@
 - [J.C. Hiatt](https://jchiatt.com/)
 - [Jaime González](https://www.barbarianmeetscoding.com/)
 - [Jake Champion](https://jakechampion.name/)
+- [Jake Jarvis](https://jarv.is/notes/)
 - [James Milner](https://www.loxodrome.io/)
 - [James Nelson](http://jamesknelson.com/)
 - [Jan-Lukas Else](https://jlelse.blog/)
