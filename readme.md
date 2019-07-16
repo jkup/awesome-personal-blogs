@@ -120,6 +120,7 @@
 - [Nate Amack](https://nateamack.com/)
 - [Nathanael Beisiegel](https://beisiegel.me/)
 - [Nicole Harris](https://whoisnicoleharris.com/)
+- [Nikita Sobolev](https://sobolevn.me/)
 - [Olavi Haapala](https://olavihaapala.fi/)
 - [Omar Bahareth](https://omar.engineer/)
 - [Paolo Melchiorre](https://www.paulox.net/)
