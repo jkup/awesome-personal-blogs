@@ -96,6 +96,7 @@
 - [Lauren Tan](https://www.no.lol/)
 - [Lazarus Lazaridis](https://iridakos.com)
 - [Lea Verou](http://lea.verou.me/)
+- [Leo Van](http://leovan.me/)
 - [León Castillejos](https://L1Cafe.blog)
 - [Lindsey Kopacz](https://www.a11ywithlindsey.com/)
 - [Lorna Jane](https://lornajane.net/)
