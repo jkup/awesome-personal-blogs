@@ -144,6 +144,7 @@
 - [Sara Winter](https://jsblog.sarawinter.se/)
 - [Sarah Chima](https://dev.to/sarah_chima)
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
+- [Sarah Lean](https://www.techielass.com)
 - [Scott Hanselman](https://www.hanselman.com/blog/)
 - [Sergio Xalambrí](https://sergiodxa.com/)
 - [Shirley Wu](http://sxywu.com/)
