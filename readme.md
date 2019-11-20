@@ -15,7 +15,7 @@
 - [Amadou Sall](https://www.amadousall.com)
 - [Aman Pratap Singh](https://blog.amanpratapsingh.in)
 - [Amit Merchant](https://www.amitmerchant.com/)
-- [Andrew Healey](https://healeycodes.github.io/)
+- [Andrew Healey](https://healeycodes.com/)
 - [Andy Bell](https://andy-bell.design/)
 - [Anton Medvedev](https://medv.io)
 - [Antonin Januska](https://antjanus.com/)
