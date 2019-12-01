@@ -59,6 +59,7 @@
 - [Glenn Stovall](https://glennstovall.com/)
 - [Greg Johns](http://www.gregjohns.com/)
 - [Harry Wolff](https://hswolff.com/)
+- [Hans Gerwitz](https://hans.gerwitz.com/)
 - [Houssein Djirdeh](https://houssein.me/)
 - [Huy Nguyen](https://www.huy.dev)
 - [Ire Aderinokun](https://bitsofco.de/)
