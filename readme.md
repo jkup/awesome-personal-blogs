@@ -9,6 +9,7 @@
 - [Angie Jones](http://angiejones.tech/)
 - [Angus Croll](https://javascriptweblog.wordpress.com/)
 - [Aditya Rohilla](https://adityarohilla.com/blog/)
+- [Alan Bi](https://alanbi.com/blog/)
 - [Alan Chang](https://tcode2k16.github.io/blog/)
 - [Alexandru-Paul Copil](https://cpl.li)
 - [Ali Spittel](https://dev.to/aspittel)
