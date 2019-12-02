@@ -14,6 +14,7 @@
 - [Ali Spittel](https://dev.to/aspittel)
 - [Amadou Sall](https://www.amadousall.com)
 - [Aman Pratap Singh](https://blog.amanpratapsingh.in)
+- [Amit Chaudhary](https://amitness.com)
 - [Amit Merchant](https://www.amitmerchant.com/)
 - [Andrew Healey](https://healeycodes.com/)
 - [Andy Bell](https://andy-bell.design/)
