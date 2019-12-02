@@ -6,6 +6,16 @@ project you agree to abide by its terms.
 
 ---
 
+## Creating a PR
+
+Open up `readme.md` and add your personal blog or one you know to the list!
+
+The only rules are all blogs submitted must:
+
+- Be on a personal domain (sally [dot] com not blogspot [dot] com/sally)
+- Be a custom website (not Medium or Blogger)
+- Have personal content (not company news or reblogging)
+
 ## Updating your PR
 
 A lot of times, making a PR adhere to the standards above can be difficult.
