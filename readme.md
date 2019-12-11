@@ -140,6 +140,7 @@
 - [Paolo Melchiorre](https://www.paulox.net/)
 - [Paul Hubbard](https://ultracrepidarian.phfactor.net/)
 - [Peter Bengtsson](https://www.peterbe.com/)
+- [Peter Thaleikis](https://peterthaleikis.com/)
 - [PC Maffey](https://www.pcmaffey.com/)
 - [Philipp Spiess](https://philippspiess.com/)
 - [Rachel Kroll](https://rachelbythebay.com/w/)
