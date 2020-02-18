@@ -185,6 +185,7 @@
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
 - [Trevor Harmon](https://thetrevorharmon.com/)
 - [Troy Hunt](https://www.troyhunt.com/)
+- [Victor Gosse](https://code-trotter.com/web/)
 - [Victoria Dev](https://victoria.dev/)
 - [Walker Frederick](https://walkerfrederick.com/)
 - [Yegor Bugayenko](https://www.yegor256.com/)
