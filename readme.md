@@ -79,7 +79,7 @@
 - [James Milner](https://www.loxodrome.io/)
 - [James Nelson](http://jamesknelson.com/)
 - [Jan-Lukas Else](https://jlelse.blog/)
-- [Jared Gorski](https://jaredgorski.com/writings/)
+- [Jared Gorski](https://jaredgorski.org/)
 - [Jason Everett](https://blog.ijasoneverett.com/)
 - [Jeff Atwood](https://blog.codinghorror.com/)
 - [Jeremy Shaw](https://blog.jeremyshaw.co.nz/)
