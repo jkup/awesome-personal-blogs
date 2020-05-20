@@ -28,6 +28,7 @@
 - [Berkhan Berkdemir](https://berkhanberkdemir.com)
 - [Brandon Dail](https://aweary.dev/)
 - [Brandon Skerritt](https://skerritt.blog/)
+- [Brian Lovin](https://brianlovin.com/overthought)
 - [Bryan Cantrill](http://dtrace.org/blogs/bmc/)
 - [Chase McCoy](https://chasem.co/thoughts/)
 - [Chiamaka Ikeanyi](https://chiamakaikeanyi.dev/)
