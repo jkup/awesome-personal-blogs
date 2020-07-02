@@ -86,6 +86,7 @@
 - [Jessie Frazelle](https://blog.jessfraz.com/)
 - [Jibin Thomas](https://blog.jibin.tech/)
 - [Jim Filippou](https://jimfilippou.space/)
+- [Jimut Bahan Pal](https://jimut123.github.io/)
 - [Joel Spolsky](https://www.joelonsoftware.com/)
 - [John Reilly](https://blog.johnnyreilly.com/)
 - [John Stewart](https://www.johnstewart.io/)
