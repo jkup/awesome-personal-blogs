@@ -34,7 +34,7 @@
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Christopher Olah](http://colah.github.io/)
 - [Christian Fei](https://christianfei.com/)
-- [Colin Cummings](https://colinrcummings.github.io/blog/)
+- [Colin Brooks](https://colinrobertbrooks.github.io/blog/)
 - [Dan Abramov](https://overreacted.io/)
 - [Daniel Lemay](https://www.dslemay.com/)
 - [Daniel Lo Nigro](https://d.sb/blog)
@@ -193,4 +193,3 @@
 - [Zero Cho](https://itsze.ro/blog)
 - [Zafar Khodjaev](https://zaff.netlify.com/)
 - [Tigran Hakobyan](https://tik.dev)
-
