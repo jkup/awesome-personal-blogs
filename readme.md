@@ -102,6 +102,7 @@
 - [Kevin Jalbert](https://kevinjalbert.com/)
 - [Khaled Garbaya](https://khaledgarbaya.net/)
 - [Kris Siegel](https://www.krissiegel.com/)
+- [Kushal Das](https://kushaldas.in/)
 - [Kyle Hall](https://kylehall.io/)
 - [Kyle Mathews](https://www.bricolage.io/)
 - [Kyle Shevlin](https://kyleshevlin.com/)
