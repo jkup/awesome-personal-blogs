@@ -175,6 +175,7 @@
 - [Thomas Kekeisen](https://thomaskekeisen.de/en/blog/archive/)
 - [Tiffany R. White Blog](https://tiffanywhite.dev/)
 - [Tiger Oakes](https://tigeroakes.com/posts/)
+- [Tigran Hakobyan](https://tik.dev)
 - [TK](http://leandrotk.github.io/tk)
 - [Toma Nistor](https://tomanistor.com/blog)
 - [Tony Xu](https://tonyxu.io)
@@ -187,5 +188,4 @@
 - [Yomesh Gupta](https://devtools.tech/)
 - [Zero Cho](https://itsze.ro/blog)
 - [Zafar Khodjaev](https://zaff.netlify.com/)
-- [Tigran Hakobyan](https://tik.dev)
 
