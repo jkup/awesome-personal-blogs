@@ -53,6 +53,7 @@
 - [Eli Bendersky](https://eli.thegreenplace.net)
 - [Elijah Lynn](https://www.elijahlynn.net/)
 - [Eric Jiang](https://lorderikir.me/blog)
+- [Eric Pierce](https://eric-pierce.com)
 - [Evan Miller](http://www.evanmiller.org/)
 - [Farzad YZ](https://farzadyz.com/blog)
 - [Fatih Arslan](https://arslan.io)
