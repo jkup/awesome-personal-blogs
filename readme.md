@@ -172,6 +172,7 @@
 - [Sophie Alpert](https://sophiebits.com/)
 - [Surya Dantuluri](https://blog.suryad.com/)
 - [Susie Lu](https://susielu.com/)
+- [Stephen Ajulu](https://ajulusthoughts.stephenajulu.com)
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Tanner Linsley](https://tannerlinsley.com/)
 - [Terin Stock](https://terinstock.com)
