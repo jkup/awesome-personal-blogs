@@ -57,6 +57,7 @@
 - [Farzad YZ](https://farzadyz.com/blog)
 - [Fatih Arslan](https://arslan.io)
 - [Fatih Kalifa](https://fatihkalifa.com/)
+- [Gabor Vecsei](https://www.gaborvecsei.com/)
 - [Gavin Henderson](https://gavinhenderson.me)
 - [Georgi Yanev](https://blog.georgi-yanev.com/)
 - [Gideon Pyzer](https://gideonpyzer.dev/blog/)
