@@ -148,6 +148,7 @@
 - [PC Maffey](https://www.pcmaffey.com/)
 - [Philipp Spiess](https://philippspiess.com/)
 - [Rachel Kroll](https://rachelbythebay.com/w/)
+- [Rene Rehme](https://renerehme.dev/)
 - [Reginald Braithwaite](https://raganwald.com/)
 - [Richard Shackleton](https://rshackleton.co.uk/)
 - [Rob Dodson](https://robdodson.me/)
