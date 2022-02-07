@@ -90,6 +90,7 @@
 - [Joel Spolsky](https://www.joelonsoftware.com/)
 - [John Reilly](https://blog.johnnyreilly.com/)
 - [John Stewart](https://www.johnstewart.io/)
+- [John Wright Stanly](https://jwstanly.com/blog)
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Jon Skeet](https://codeblog.jonskeet.uk/)
 - [Julia Evans](https://jvns.ca/)
