@@ -185,6 +185,7 @@
 - [Tiffany R. White Blog](https://tiffanywhite.dev/)
 - [Tiger Oakes](https://tigeroakes.com/posts/)
 - [TK](http://leandrotk.github.io/tk)
+- [Tobias Schmidt](https://tobiasschmidt.me/)
 - [Toma Nistor](https://tomanistor.com/blog)
 - [Tony Xu](https://tonyxu.io)
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
@@ -198,4 +199,3 @@
 - [Zero Cho](https://itsze.ro/blog)
 - [Zafar Khodjaev](https://zaff.netlify.com/)
 - [Tigran Hakobyan](https://tik.dev)
-
