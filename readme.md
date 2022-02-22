@@ -97,6 +97,7 @@
 - [Julia Evans](https://jvns.ca/)
 - [Juri Strumpflohner](https://juristr.com/blog)
 - [Justin James](https://digitaldrummerj.me/)
+
 - [Katie McLaughlin](https://glasnt.com/blog/)
 - [Kendra Little](https://littlekendra.com/)
 - [Kent C. Dodds](https://kentcdodds.com/)
@@ -180,6 +181,7 @@
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Tanner Linsley](https://tannerlinsley.com/)
 - [Terin Stock](https://terinstock.com)
+- [Tecroxy](https://tecroxy.com)
 - [Thomas Hunter II](https://thomashunter.name)
 - [Thomas Kekeisen](https://thomaskekeisen.de/en/blog/archive/)
 - [Tiffany R. White Blog](https://tiffanywhite.dev/)
