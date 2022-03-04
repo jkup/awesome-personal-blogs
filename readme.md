@@ -66,6 +66,7 @@
 - [Greg Johns](http://www.gregjohns.com/)
 - [Harry Wolff](https://hswolff.com/)
 - [Hans Gerwitz](https://hans.gerwitz.com/)
+- [Henri Parviainen](https://www.webdevolution.com)
 - [Henrique Dias](https://hacdias.com/)
 - [Houssein Djirdeh](https://houssein.me/)
 - [Hugo Di Francesco](https://codewithhugo.com)
