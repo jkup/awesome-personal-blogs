@@ -190,6 +190,7 @@
 - [Travis Bumgarner](https://blog.travisbumgarner.com/)
 - [Trevor Harmon](https://thetrevorharmon.com/)
 - [Troy Hunt](https://www.troyhunt.com/)
+- [Vedant Athavale](https://www.thebrownfella.com/)
 - [Victor Gosse](https://code-trotter.com/web/)
 - [Victoria Dev](https://victoria.dev/)
 - [Walker Frederick](https://walkerfrederick.com/)
