@@ -139,6 +139,7 @@
 - [Mustafa Çalap](https://calap.co/blog)
 - [Nate Amack](https://nateamack.com/)
 - [Nathanael Beisiegel](https://beisiegel.me/)
+- [NaveenKumar Namachivayam](https://qainsights.com/)
 - [Nicole Harris](https://whoisnicoleharris.com/)
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Olavi Haapala](https://olavihaapala.fi/)
