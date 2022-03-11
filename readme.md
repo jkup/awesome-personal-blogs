@@ -72,6 +72,7 @@
 - [Huy Nguyen](https://www.huy.dev)
 - [Ire Aderinokun](https://bitsofco.de/)
 - [Ismail Ghallou](https://smakosh.com/blog/)
+- [Ivan Kahl](https://blog.ivankahl.com/)
 - [J.C. Hiatt](https://jchiatt.com/)
 - [Jaime González](https://www.barbarianmeetscoding.com/)
 - [Jake Archibald](https://jakearchibald.com/)
