@@ -52,6 +52,7 @@
 - [Eduards Sizovs](https://sizovs.net)
 - [Eli Bendersky](https://eli.thegreenplace.net)
 - [Elijah Lynn](https://www.elijahlynn.net/)
+- [Erdem Köşk](https://erdemkosk.com/)
 - [Eric Jiang](https://lorderikir.me/blog)
 - [Eric Pierce](https://eric-pierce.com)
 - [Evan Miller](http://www.evanmiller.org/)
