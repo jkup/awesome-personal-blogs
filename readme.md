@@ -49,6 +49,7 @@
 - [Dinesh Pandiyan](https://dineshpandiyan.com/)
 - [Don Hamilton III](https://blog.donhamiltoniii.com/)
 - [Doğan Uçar](https://www.dogan-ucar.de/category/blog/)
+- [Drew Devault](https://drewdevault.com/)
 - [Eduards Sizovs](https://sizovs.net)
 - [Eli Bendersky](https://eli.thegreenplace.net)
 - [Elijah Lynn](https://www.elijahlynn.net/)
