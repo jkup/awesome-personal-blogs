@@ -94,6 +94,7 @@
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Jon Paul Uritis](https://jonpauluritis.com/)
 - [Jon Skeet](https://codeblog.jonskeet.uk/)
+- [Jonas Lundberg](https://iamjonas.me/)
 - [Julia Evans](https://jvns.ca/)
 - [Juri Strumpflohner](https://juristr.com/blog)
 - [Justin James](https://digitaldrummerj.me/)
@@ -198,4 +199,3 @@
 - [Zero Cho](https://itsze.ro/blog)
 - [Zafar Khodjaev](https://zaff.netlify.com/)
 - [Tigran Hakobyan](https://tik.dev)
-
