@@ -122,6 +122,7 @@
 - [Marcy Sutton](https://marcysutton.com/)
 - [Marius Schulz](https://mariusschulz.com)
 - [Mark Erikson](https://blog.isquaredsoftware.com/)
+- [Marny Lopez](https://blog.marnylopez.com/)
 - [Marshall Bowers](https://maxdeviant.com/)
 - [Mark Luetke](https://luetkemj.github.io/)
 - [Martin Fowler](https://martinfowler.com/)
