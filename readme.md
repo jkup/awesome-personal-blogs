@@ -4,7 +4,7 @@
 
 ## Personal Blogs
 
-- [Adam C. Conrad](https://userinterfacing.com/)
+- [Adam C. Conrad](https://www.adamconrad.dev/blog/)
 - [Adam Rackis](https://adamrackis.dev/)
 - [Angie Jones](http://angiejones.tech/)
 - [Angus Croll](https://javascriptweblog.wordpress.com/)
