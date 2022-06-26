@@ -134,7 +134,7 @@
 - [Mbithe Nzomo](http://decodegirl.com/)
 - [Michael Malura](https://malura.de/)
 - [Mike Behnke](https://kgrz.io/)
-- [Mike Bifulco](https://mike.biful.co/)
+- [Mike Bifulco](https://mikebifulco.com/)
 - [Mouse Reeve](https://www.mousereeve.com/)
 - [Mustafa Çalap](https://calap.co/blog)
 - [Nate Amack](https://nateamack.com/)
