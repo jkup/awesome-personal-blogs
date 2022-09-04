@@ -169,6 +169,7 @@
 - [Scott Hanselman](https://www.hanselman.com/blog/)
 - [Scott Helme](https://scotthelme.co.uk/)
 - [Sergio Xalambrí](https://sergiodxa.com/)
+- [SerHack](https://serhack.me/)
 - [Shirley Wu](http://sxywu.com/)
 - [Siddharth Kshetrapal](https://sid.studio/blog)
 - [Simon Gilbert](https://www.simongilbert.net)
