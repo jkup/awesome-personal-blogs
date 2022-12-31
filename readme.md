@@ -88,7 +88,7 @@
 - [Jibin Thomas](https://blog.jibin.tech/)
 - [Jim Filippou](https://jimfilippou.space/)
 - [Joel Spolsky](https://www.joelonsoftware.com/)
-- [John Reilly](https://blog.johnnyreilly.com/)
+- [John Reilly](https://johnnyreilly.com/)
 - [John Stewart](https://www.johnstewart.io/)
 - [John Wright Stanly](https://jwstanly.com/blog)
 - [Jon Kuperman](https://jonkuperman.com/)
