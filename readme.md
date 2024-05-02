@@ -4,6 +4,7 @@
 
 ## Personal Blogs
 
+- [A Geek in Data](https://geekindata.com/)
 - [Adam C. Conrad](https://userinterfacing.com/)
 - [Adam Rackis](https://adamrackis.dev/)
 - [Angie Jones](http://angiejones.tech/)
