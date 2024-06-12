@@ -39,6 +39,7 @@
 - [Daniel Lemay](https://www.dslemay.com/)
 - [Daniel Lo Nigro](https://d.sb/blog)
 - [Darren Jennings](https://guuu.io/)
+- [Darren Singleton](https://darren.me)
 - [Dave Chaney](https://dave.cheney.net)
 - [Dave Geddes](https://gedd.ski/)
 - [David Walsh](https://davidwalsh.name/)
