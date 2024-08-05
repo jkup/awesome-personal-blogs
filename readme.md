@@ -29,6 +29,7 @@
 - [Brandon Dail](https://aweary.dev/)
 - [Brandon Skerritt](https://skerritt.blog/)
 - [Bryan Cantrill](http://dtrace.org/blogs/bmc/)
+- [Cboxes Photography](https://www.cboxes.icu/)
 - [Chase McCoy](https://chasem.co/thoughts/)
 - [Chiamaka Ikeanyi](https://chiamakaikeanyi.dev/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
