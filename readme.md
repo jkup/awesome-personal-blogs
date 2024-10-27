@@ -22,7 +22,6 @@
 - [Anton Medvedev](https://medv.io)
 - [Antonin Januska](https://antjanus.com/)
 - [Arun Michael Dsouza](https://arunmichaeldsouza.com/blog)
-- [Ata Sanchez](https://atasanchez.com/)
 - [Avinash](https://avinash.com.np/)
 - [Benedikt Meurer](https://benediktmeurer.de/)
 - [Berkhan Berkdemir](https://berkhanberkdemir.com)
