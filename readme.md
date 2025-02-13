@@ -6,6 +6,7 @@
 
 - [Adam C. Conrad](https://userinterfacing.com/)
 - [Adam Rackis](https://adamrackis.dev/)
+- [Amoda Fernando](https://blog.fernand3z.dev/)
 - [Angie Jones](http://angiejones.tech/)
 - [Angus Croll](https://javascriptweblog.wordpress.com/)
 - [Aditya Rohilla](https://adityarohilla.com/blog/)
