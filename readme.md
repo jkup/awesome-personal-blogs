@@ -198,4 +198,5 @@
 - [Zero Cho](https://itsze.ro/blog)
 - [Zafar Khodjaev](https://zaff.netlify.com/)
 - [Tigran Hakobyan](https://tik.dev)
+- [Anton Grishin](https://alchemmist.xyz?utm_source=github)
 
