@@ -83,6 +83,7 @@
 - [Jared Gorski](https://jaredgorski.org/)
 - [Jason Everett](https://blog.ijasoneverett.com/)
 - [Jeff Atwood](https://blog.codinghorror.com/)
+- [Jens Oliver Meiert](https://meiert.com/)
 - [Jeremy Shaw](https://blog.jeremyshaw.co.nz/)
 - [Jessie Frazelle](https://blog.jessfraz.com/)
 - [Jibin Thomas](https://blog.jibin.tech/)
@@ -198,4 +199,3 @@
 - [Zero Cho](https://itsze.ro/blog)
 - [Zafar Khodjaev](https://zaff.netlify.com/)
 - [Tigran Hakobyan](https://tik.dev)
-
