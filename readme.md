@@ -173,6 +173,7 @@
 - [Siddharth Kshetrapal](https://sid.studio/blog)
 - [Simon Gilbert](https://www.simongilbert.net)
 - [Simon Willison](https://simonwillison.net/)
+- [Sithira Senanayake](https://sithira.me/)
 - [Soledad Penadés](https://soledadpenades.com/)
 - [Sophie Alpert](https://sophiebits.com/)
 - [Surya Dantuluri](https://blog.suryad.com/)
