@@ -160,6 +160,7 @@
 - [Roelof Jan Elsinga](https://roelofjanelsinga.com/articles)
 - [Russ Cox](https://research.swtch.com)
 - [Sagar Giri](https://girisagar46.github.io/)
+- [Sahil Kapoor](https://sahilkapoor.com)
 - [Shodipo Ayomide](https://www.shodipoayomide.com/)
 - [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Sara Winter](https://jsblog.sarawinter.se/)
