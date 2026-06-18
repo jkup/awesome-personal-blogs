@@ -142,6 +142,7 @@
 - [Nicole Harris](https://whoisnicoleharris.com/)
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Olavi Haapala](https://olavihaapala.fi/)
+- [Oleg Timoshin](https://timoshinoleg-eng.github.io/blog/)
 - [Omar Bahareth](https://omar.engineer/)
 - [Paolo Melchiorre](https://www.paulox.net/)
 - [Paul Hubbard](https://ultracrepidarian.phfactor.net/)
