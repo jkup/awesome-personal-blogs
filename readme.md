@@ -4,6 +4,7 @@
 
 ## Personal Blogs
 
+- [Aaron Massicotte](https://aaronmassicotte.com/)
 - [Adam C. Conrad](https://userinterfacing.com/)
 - [Adam Rackis](https://adamrackis.dev/)
 - [Angie Jones](http://angiejones.tech/)
