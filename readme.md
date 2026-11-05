@@ -124,6 +124,7 @@
 - [Mark Erikson](https://blog.isquaredsoftware.com/)
 - [Marshall Bowers](https://maxdeviant.com/)
 - [Mark Luetke](https://luetkemj.github.io/)
+- [Marko Savran](https://opensource-analytics.com/)
 - [Martin Fowler](https://martinfowler.com/)
 - [Matt Might](http://matt.might.net/#blog)
 - [Matt Podwysocki](https://mattpodwysocki.github.io/)
