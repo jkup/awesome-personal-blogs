@@ -55,6 +55,7 @@
 - [Eric Jiang](https://lorderikir.me/blog)
 - [Eric Pierce](https://eric-pierce.com)
 - [Evan Miller](http://www.evanmiller.org/)
+- [Exia](https://exia.de5.net/)
 - [Farzad YZ](https://farzadyz.com/blog)
 - [Fatih Arslan](https://arslan.io)
 - [Fatih Kalifa](https://fatihkalifa.com/)
