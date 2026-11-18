@@ -77,6 +77,7 @@
 - [Jake Archibald](https://jakearchibald.com/)
 - [Jake Champion](https://jakechampion.name/)
 - [Jake Jarvis](https://jarv.is/notes/)
+- [Jake Parks](https://theendofentrepreneurs.com)
 - [James Milner](https://www.loxodrome.io/)
 - [James Nelson](http://jamesknelson.com/)
 - [Jan-Lukas Else](https://jlelse.blog/)
