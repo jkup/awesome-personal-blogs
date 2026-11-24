@@ -193,6 +193,7 @@
 - [Victor Gosse](https://code-trotter.com/web/)
 - [Victoria Dev](https://victoria.dev/)
 - [Walker Frederick](https://walkerfrederick.com/)
+- [Wayne](https://waynetalk.com/)
 - [Yegor Bugayenko](https://www.yegor256.com/)
 - [Yomesh Gupta](https://devtools.tech/)
 - [Zero Cho](https://itsze.ro/blog)
