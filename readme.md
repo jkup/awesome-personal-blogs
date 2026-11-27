@@ -70,6 +70,7 @@
 - [Houssein Djirdeh](https://houssein.me/)
 - [Hugo Di Francesco](https://codewithhugo.com)
 - [Huy Nguyen](https://www.huy.dev)
+- [Ilja Nevolin](https://nevolin.be/blog)
 - [Ire Aderinokun](https://bitsofco.de/)
 - [Ismail Ghallou](https://smakosh.com/blog/)
 - [J.C. Hiatt](https://jchiatt.com/)
